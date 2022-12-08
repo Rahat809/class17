@@ -6,7 +6,7 @@
 
 .herder{
     background: #000;
-    height: 50px;
+    height: 80px;
 }
 .img_logo img{
     max-width: 100%;
@@ -20,7 +20,7 @@
     transition: .7s;
 }
 .menu ul li{
-    padding: 13px 25px;
+    padding: 30px 25px;
     display: inline-block;
     position: relative;
 
