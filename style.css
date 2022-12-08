@@ -376,8 +376,8 @@ a {
 .border1{
     border: 1px solid white;
     box-sizing: border-box;
-    width: 350px;
-    height: 330px;
+    width: 550px;
+    height: 470px;
     margin-right: 50px;
     margin-left: 100px;
 }
@@ -385,6 +385,6 @@ a {
 .border2{
     border: 1px solid white;
     box-sizing: border-box;
-    width: 350px;
-    height: 330px;
+    width: 550px;
+    height: 470px;
 }
